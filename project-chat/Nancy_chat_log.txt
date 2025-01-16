@@ -1,0 +1,9 @@
+Virtual chat session with Jake and Nancy:
+Nancy: where can i find the academic calender?
+Jake: Could you please provide more details?
+Nancy: academic calendar
+Jake: You can find the latest academic calendar with important dates on the university website.
+Nancy: tell me about the cafe.
+Jake: The campus cafe is open from 8 AM to 6 PM.
+Nancy: bye
+Jake: Goodbye message sent.

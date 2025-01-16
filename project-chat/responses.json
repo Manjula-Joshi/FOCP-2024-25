@@ -1,0 +1,100 @@
+{
+    "facilities": {
+        "cafe": "The campus cafe is open from 8 AM to 6 PM.",
+        "coffee": "The campus coffee bar operates from 8 AM to 6 PM.",
+        "library": "The Poppleton Library is open from 7 AM to 10 PM every day.",
+        "sports": "The ECA department handles the sports center. It's available for bookings between 9 AM abd 8 PM.",
+        "parking": "Visitor and student parking spaces are availble near the main building.",
+        "wifi": "WiFi is free for students inside the campus. Just log in with your student ID and you're good to go.",
+        "canteen": "Our canteen serves delicious meals and snacks from 7 AM to 8 PM. Don't miss the Friday special!",
+        "gym": "The gym is located in the sports center and is open from 6 AM to 9 PM. It's free for students!",
+    "study rooms": "Quiet study rooms are available on the second floor of the library. You can book them online or at the library desk.",
+    "bookstore": "Our campus bookstore, near the main entrance, offers textbooks, stationery, and Poppleton merchandise. It's open from 8 AM to 7 PM.",
+    "printing": "Printing facilities are available in the library and IT lab. You can use your student ID for access.",
+    "laundry": "Laundry facilities are provided in all hostels, equipped with washers and dryers. Tokens can be purchased at the hostel office."
+    },
+
+    "greetings": {
+    "hello": "Hello! How can I assist you today?",
+    "hi": "Hi, welcome back! What can I do for you?",
+    "hey": "Hey, nice to see you! What's on your mind?",
+    "good morning": "Good morning! How can I help?",
+     "welcome": "Welcome to the University of Poppleton! How can I assist you today?",
+    "how are you": "I'm here and ready to help! How can I assist you today?",
+    "nice to meet you": "Nice to meet you too! Let me know how I can help."
+  },
+
+   "goodbye": {
+    "bye": "Goodbye! Have a nice day!",
+    "exit": "Take care! Talk to you soon!",
+    "see you later": "See you later! Feel free to reach out anytime.",
+    "thank you": "I'm glad I could help you."
+  },
+
+    "academics": {
+        "fees": "The tuition fees vary depending on your course and program. You can find detailed information on our website or feel free to ask for specifics about your program!",
+        "admissions": "Admissions for the upcoming semester close on March 20th.",
+        "courses": "You can explore our range of courses at www.peppleton.ac.uk/course.",
+        "exam": "Exam department manages the exam schedules and it will be posted on your student portal. Ensure to check it regularly for updates.",
+        "registration": "Course registration for the next semester begins next month. Don't miss out!",
+        "scholarship": "Poppleton offers a variety of scholarships for eligible students. Check out the details on our website under the 'Financial Aid and Scholarships' section, or visit the Student Support Office for assistance.",
+        "library resources": "Our library provides access to e-journals, e-books, and research databases. Check the library portal for more.",
+    "academic calendar": "You can find the latest academic calendar with important dates on the university website.",
+    "labs": "The computer labs are open 24/7 for students. Don't forget your ID for access!",
+    "tutoring": "Need help with your studies? Academic tutors are available Monday to Friday from 10 AM to 6 PM."
+    },
+
+    "student_life": {
+    "clubs": "We have something for everyone here! Join one of our many student clubs to make the most of your life at university.",
+    "hostel": "We provide a cozy and safe environment in our student hostels. Feel free to ask about room types or facilities!",
+    "mental health": "We care about your well-being. Our counseling services are available Monday through Friday from 9 AM to 5 PM.",
+    "volunteering": "Want to give to the community? We have several volunteering programs you can join.",
+    "cafeteria": "The cafeteria is located in Building B and offers a variety of meals, including vegetarian and vegan options.",
+    "events": "Keep an eye on the notice boards or the university app for upcoming student events and workshops.",
+    "transport": "The university offers shuttle buses from the train station to campus. Check the schedule online.",
+    "student discounts": "Your student ID gets you discounts at local shops, cinemas, and public transport!"
+    },
+
+    "career": {
+    "placements": "Our placement office helps students prepare for careers. Drop by and check out the job posting!",
+    "sports teams": "Whether it's football, basketball, swimming, baseball or tennis, our teams are always looking for new talents. Tryouts happen each semester!",
+    "interships": "We have strong ties with many employers. Visit the career center to explore internship opportunities!",
+    "career fairs": "Don't miss our annual career fair in March, where top companies visit to recruit fresh talent.",
+    "resume help": "The career center offers one-on-one sessions to help you polish your resume and cover letter.",
+    "networking": "Our alumni network hosts monthly networking events. Join to connect with industry professionals."
+
+    },
+
+    "events": {
+    "events": "The next university event, our Open Day, is scheduled for February 20th.",
+    "campus map": "You can find a detailed campus map on our website or grab a printed copy at the information desk.",
+    "workshops": "We regularly host skill-building workshops on coding, public speaking, and more. Check the events calendar!",
+    "guest lectures": "Industry leaders often visit as guest lecturers. Look out for announcements on our website.",
+    "festivals": "Our cultural festival, PoppleFest, is coming up soon! Join us for food, music, and fun!"
+  },
+
+  "support": {
+    "helpdesk": "For assistance, you can reach the helpdesk at helpdesk@poppleton.ac.uk or call 01234 567890.",
+    "IT support": "Contact IT support at it.help@poppleton.ac.uk or visit Room 204 in the main building if you're having tech issues.",
+    "fees": "Tuition fees can be paid online via the student portal. Installment plans are also available for your convenience.",
+    "medical aid": "We have a medical center on campus near the hostel blocks. It's open from 9 AM to 5 PM on weekdays.",
+    "emergency contact": "In case of emergencies, call the campus security at 01234 567891.",
+    "lost and found": "Lost something? Check the lost and found at the main reception desk in Building A."
+  },
+
+  "fun_facts": {
+        "university": "Did you know? The University of Poppleton was founded in 1902 and has over 20,000 students!",
+        "library": "Fun Fact: Our library holds over 1 million books and is one of the largest in the region.",
+        "sports": "Did you know? Our university's football team won the national championship 3 times in a row!",
+        "cafeteria": "Did you know our cafeteria serves over 1,000 meals daily?",
+    "campus": "Our campus spans over 200 acres, with lush greenery and modern architecture.",
+    "students": "Poppleton has students from over 80 countries, making it a vibrant and diverse community!"
+    
+},
+
+"location": {
+    "address": "The University of Poppleton is located at 123 Poppleton Lane, Poppleton, PO12 3AB.",
+    "map": "You can find us on Google Maps by searching for 'University of Poppleton.'",
+    "transport": "Poppleton is well-connected by trains and buses. The nearest train station is just 10 minutes from campus."
+}
+}
